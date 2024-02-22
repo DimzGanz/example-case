@@ -10,16 +10,16 @@ global.APIKeys = {
 	'https://api.zeeoneofc.my.id': 'Your Key',
 }
 
-global.namabot = "Bot Store"
-global.namaowner = "Zeeoneofc"
+global.namabot = "Dimas Bot"
+global.namaowner = "Dimasss"
 global.packname = namabot
 global.author = namaowner
-global.myweb = "https://s.id/zeeoneofc"
+global.myweb = "gada"
 global.footer_text = "© " + namabot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
-global.owner = ['62887435047326']
-global.pairingNumber = "" //pairing number to install bot 
+global.owner = ['6289696764138']
+global.pairingNumber = "6283131853217" //pairing number to install bot 
 global.sessionName = 'session'
 global.background = "https://telegra.ph/file/40342e0085d521cb8b907.jpg" //maks size 50kb agar welcome nya gk lemot
 global.prefa = ['-_-']
@@ -65,6 +65,107 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ Time : ${jam}
 ┆❐ Date : ${tanggal}
 ┆❐ Runtime : ${runtime}
+╰──────────◇
+
+╭✄┈┈┈⟬ *GROUP* ⟭
+┆❐ ${prefix}setwelcome
+┆❐ ${prefix}changewelcome
+┆❐ ${prefix}delsetwelcome
+┆❐ ${prefix}setleft
+┆❐ ${prefix}changeleft
+┆❐ ${prefix}delsetleft
+┆❐ ${prefix}antiwame
+┆❐ ${prefix}antiwame2
+┆❐ ${prefix}open
+┆❐ ${prefix}close
+┆❐ ${prefix}antilink
+┆❐ ${prefix}antilink2
+┆❐ ${prefix}hidetag
+╰──────────◇
+
+╭✄┈┈┈⟬ *DOWNLOADER* ⟭
+┆❐ ${prefix}ytmp4
+┆❐ ${prefix}ytmp3
+┆❐ ${prefix}play
+┆❐ ${prefix}ytsearch
+┆❐ ${prefix}igdl
+┆❐ ${prefix}igphoto
+┆❐ ${prefix}igvideo
+┆❐ ${prefix}igreels
+┆❐ ${prefix}pinterest
+┆❐ ${prefix}mediafire
+┆❐ ${prefix}tiktok
+┆❐ ${prefix}tiktokaudio
+┆❐ ${prefix}tiktokvn
+╰──────────◇
+
+╭✄┈┈┈⟬ *CANVAS* ⟭
+┆❐ ${prefix}ttp
+┆❐ ${prefix}attp
+┆❐ ${prefix}foliokiri
+┆❐ ${prefix}foliokanan
+┆❐ ${prefix}nuliskanan
+┆❐ ${prefix}nuliskiri
+╰──────────◇
+
+╭✄┈┈┈⟬ *GAMES* ⟭
+┆❐ ${prefix}tebakgambar
+┆❐ ${prefix}tebakkata
+┆❐ ${prefix}tebakbendera
+┆❐ ${prefix}tebakkalimat
+┆❐ ${prefix}tebaksiapa
+┆❐ ${prefix}tebakkabupaten
+┆❐ ${prefix}tebakkota
+┆❐ ${prefix}tebakkimia
+┆❐ ${prefix}tebaklirik
+┆❐ ${prefix}tebaktebakan
+┆❐ ${prefix}tekateki
+┆❐ ${prefix}susunkata
+┆❐ ${prefix}caklontong
+╰──────────◇
+
+╭✄┈┈┈⟬ *RANDOM STICKER* ⟭
+┆❐ ${prefix}patrick
+┆❐ ${prefix}popoci
+┆❐ ${prefix}sponsbob
+┆❐ ${prefix}kawan-sponsbob
+┆❐ ${prefix}awoawo
+┆❐ ${prefix}chat
+┆❐ ${prefix}benedict
+┆❐ ${prefix}dbfly
+┆❐ ${prefix}dino-kuning
+┆❐ ${prefix}doge
+┆❐ ${prefix}gojosatoru
+┆❐ ${prefix}hope-boy
+┆❐ ${prefix}jisoo
+┆❐ ${prefix}kr-robot
+┆❐ ${prefix}kucing
+┆❐ ${prefix}lonte
+┆❐ ${prefix}manusia-lidi
+┆❐ ${prefix}menjamet
+┆❐ ${prefix}meow
+┆❐ ${prefix}nicholas
+┆❐ ${prefix}tyni
+╰──────────◇
+
+╭✄┈┈┈⟬ *SEMOJI* ⟭
+┆❐ ${prefix}apple
+┆❐ ${prefix}aubykddi
+┆❐ ${prefix}docomo
+┆❐ ${prefix}softbank
+┆❐ ${prefix}mozilla
+┆❐ ${prefix}htc
+┆❐ ${prefix}lg
+┆❐ ${prefix}messenger
+┆❐ ${prefix}emojidex
+┆❐ ${prefix}openmoji
+┆❐ ${prefix}joypixels
+┆❐ ${prefix}facebook2
+┆❐ ${prefix}twitter2
+┆❐ ${prefix}whatsapp
+┆❐ ${prefix}microsoft
+┆❐ ${prefix}samsung
+┆❐ ${prefix}google
 ╰──────────◇
 
 ╭✄┈┈┈⟬ *ANIME* ⟭
@@ -171,42 +272,6 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}huangzitao
 ┆❐ ${prefix}dohkyungsoo
 ┆❐ ${prefix}baekhyung
-╰──────────◇
-
-╭✄┈┈┈⟬ *DOWNLOADER* ⟭
-┆❐ ${prefix}ytmp4
-┆❐ ${prefix}ytmp3
-┆❐ ${prefix}play
-┆❐ ${prefix}ytsearch
-┆❐ ${prefix}igdl
-┆❐ ${prefix}igphoto
-┆❐ ${prefix}igvideo
-┆❐ ${prefix}igreels
-┆❐ ${prefix}pinterest
-┆❐ ${prefix}mediafire
-┆❐ ${prefix}tiktok
-┆❐ ${prefix}tiktokaudio
-┆❐ ${prefix}tiktokvn
-╰──────────◇
-
-╭✄┈┈┈⟬ *SEMOJI* ⟭
-┆❐ ${prefix}apple
-┆❐ ${prefix}aubykddi
-┆❐ ${prefix}docomo
-┆❐ ${prefix}softbank
-┆❐ ${prefix}mozilla
-┆❐ ${prefix}htc
-┆❐ ${prefix}lg
-┆❐ ${prefix}messenger
-┆❐ ${prefix}emojidex
-┆❐ ${prefix}openmoji
-┆❐ ${prefix}joypixels
-┆❐ ${prefix}facebook2
-┆❐ ${prefix}twitter2
-┆❐ ${prefix}whatsapp
-┆❐ ${prefix}microsoft
-┆❐ ${prefix}samsung
-┆❐ ${prefix}google
 ╰──────────◇
 
 ╭✄┈┈┈⟬ *EPHOTO 360* ⟭
@@ -362,22 +427,6 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}teamlogo 
 ┆❐ ${prefix}wallpaperaov 
 ┆❐ ${prefix}wallpaperml 
-╰──────────◇
-
-╭✄┈┈┈⟬ *GAMES* ⟭
-┆❐ ${prefix}tebakgambar
-┆❐ ${prefix}tebakkata
-┆❐ ${prefix}tebakbendera
-┆❐ ${prefix}tebakkalimat
-┆❐ ${prefix}tebaksiapa
-┆❐ ${prefix}tebakkabupaten
-┆❐ ${prefix}tebakkota
-┆❐ ${prefix}tebakkimia
-┆❐ ${prefix}tebaklirik
-┆❐ ${prefix}tebaktebakan
-┆❐ ${prefix}tekateki
-┆❐ ${prefix}susunkata
-┆❐ ${prefix}caklontong
 ╰──────────◇
 
 ╭✄┈┈┈⟬ *IMAGE EFFECT* ⟭
@@ -550,39 +599,6 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}battlegrounds-logo
 ┆❐ ${prefix}battlefield4
 ┆❐ ${prefix}text-8bit
-╰──────────◇
-
-╭✄┈┈┈⟬ *RANDOM STICKER* ⟭
-┆❐ ${prefix}patrick
-┆❐ ${prefix}popoci
-┆❐ ${prefix}sponsbob
-┆❐ ${prefix}kawan-sponsbob
-┆❐ ${prefix}awoawo
-┆❐ ${prefix}chat
-┆❐ ${prefix}benedict
-┆❐ ${prefix}dbfly
-┆❐ ${prefix}dino-kuning
-┆❐ ${prefix}doge
-┆❐ ${prefix}gojosatoru
-┆❐ ${prefix}hope-boy
-┆❐ ${prefix}jisoo
-┆❐ ${prefix}kr-robot
-┆❐ ${prefix}kucing
-┆❐ ${prefix}lonte
-┆❐ ${prefix}manusia-lidi
-┆❐ ${prefix}menjamet
-┆❐ ${prefix}meow
-┆❐ ${prefix}nicholas
-┆❐ ${prefix}tyni
-╰──────────◇
-
-╭✄┈┈┈⟬ *CANVAS* ⟭
-┆❐ ${prefix}ttp
-┆❐ ${prefix}attp
-┆❐ ${prefix}foliokiri
-┆❐ ${prefix}foliokanan
-┆❐ ${prefix}nuliskanan
-┆❐ ${prefix}nuliskiri
 ╰──────────◇
 
 ╭✄┈┈┈⟬ *TEXT PRO* ⟭
@@ -764,21 +780,6 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}bagel
 ╰──────────◇
 
-╭✄┈┈┈⟬ *GROUP* ⟭
-┆❐ ${prefix}setwelcome
-┆❐ ${prefix}changewelcome
-┆❐ ${prefix}delsetwelcome
-┆❐ ${prefix}setleft
-┆❐ ${prefix}changeleft
-┆❐ ${prefix}delsetleft
-┆❐ ${prefix}antiwame
-┆❐ ${prefix}antiwame2
-┆❐ ${prefix}open
-┆❐ ${prefix}close
-┆❐ ${prefix}antilink
-┆❐ ${prefix}antilink2
-┆❐ ${prefix}hidetag
-╰──────────◇
 `
 }
 }
